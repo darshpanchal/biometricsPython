@@ -1,0 +1,10 @@
+modi\wav\a0425.wav
+modi\wav\a0426.wav
+modi\wav\a0427.wav
+modi\wav\a0428.wav
+modi\wav\a0429.wav
+tom\wav\b0421.wav
+tom\wav\b0422.wav
+tom\wav\b0423.wav
+tom\wav\b0424.wav
+tom\wav\b0425.wav
