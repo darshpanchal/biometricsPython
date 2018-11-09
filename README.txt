@@ -29,3 +29,4 @@ If you want to train model with new users, simply add 3-4 images of the person i
 
 PS - Do not forget to change the development_set_test.txt file contents as per required persons authorization.
 If any issues, feel free to ping me on darshpanchal.97@gmail.com
+Read my blog at https://contentcity.net/blog
